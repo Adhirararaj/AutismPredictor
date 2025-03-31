@@ -23,7 +23,7 @@ import pickle
 
 # %%
 # read the csv data to a pandas dataframe
-df = pd.read_csv("/content/train.csv")
+df = pd.read_csv("./train.csv")
 
 # %% [markdown]
 # Initial Inspection
